@@ -1,0 +1,80 @@
+.containername{
+    background-color: gray;
+    padding: 10px;
+}
+.lead1{
+    position: relative;
+    height: 310px;
+   width: 537.36px;
+   margin: 5px;
+   border: 3px solid #73AD21;
+}
+.lead2{
+    position: relative;
+    height: 147px;
+    width: 262.09px;
+    margin: 5px; 
+    border: 3px solid #73AD21;
+}
+.lead3{
+    position: relative;
+    height: 190px;
+    width: 260.53px;
+    margin: 5px; 
+    border: 3px solid #73AD21; 
+}
+.imagel1{
+    top: 0;
+    left: 0;
+    position: absolute;
+    height: 310px;
+   width: 537.36px;
+}
+.imagel2{
+    position: absolute;
+    height: 147px;
+    width: 262.09px;
+}
+.imagel3{
+    position: absolute;
+    height: 190px;
+    width: 260.53px;
+}
+
+.headingl1{
+    bottom: 0px;
+
+    position: absolute;
+    color: white;
+}
+.headingl2{
+    bottom: 0px;
+    position: absolute;
+    color: white;
+}   
+.headingl3{
+    bottom: 0px;
+    position: absolute;
+    color: white;
+}
+.container{
+    border: 2px solid gray;
+    width: 500px;
+    padding: 10px;
+}
+.bodycon{
+    border: 1px solid tomato;
+    padding: 10px;
+}
+button{
+    
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.edit{
+    background-color: green;
+}
+.delete{
+    background-color: red;
+}
